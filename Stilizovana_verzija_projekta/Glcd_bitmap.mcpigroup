@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\GLCD_bitmap\GLCD_bitmap.mcppi
+Project1=Glcd_bitmap.mcppi
+[ActiveProject]
+Index=1
